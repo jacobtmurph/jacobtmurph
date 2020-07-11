@@ -1,5 +1,12 @@
-### Hi there 👋
+![General Kenobi Meme](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
+#### Actual footage of me greeting you. (I lost my glasses tho)
 
+# All memes aside...
+
+Hi! I'm Jacob, a web developer, reader, DnD nerd Co. Antrim from Northern Ireland!
+I like to work on fun, innovative, and people-helping projects, mostly in JavaScript related tools & frameworks. If that sounds like your jame [feel free to hit me up](mailto:jacobtmurphy@hey.com). 
+
+Who knows where it could lead?
 <!--
 **jacobtmurph/jacobtmurph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
