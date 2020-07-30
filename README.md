@@ -3,7 +3,7 @@
 
 # All memes aside...
 
-Hi! I'm Jacob, a web developer, reader/write, & DnD nerd from Co. Antrim Northern Ireland!
+Hi! I'm Jacob, a web developer, reader/writer, & DnD nerd from Co. Antrim Northern Ireland!
 I like to work on fun, innovative, and people-helping projects, mostly in JavaScript related tools & frameworks. If that sounds like your jam [feel free to hit me up](mailto:jacobtmurphy@hey.com). 
 
 Who knows where it could lead?
